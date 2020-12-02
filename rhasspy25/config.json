@@ -1,9 +1,9 @@
 {
-    "name": "Rhasspy Assistant",
-    "slug": "rhasspy",
+    "name": "Rhasspy Assistant - ReSpeaker",
+    "slug": "rhasspy-respeaker",
     "version": "2.5.8.1",
-    "description": "Offline voice assistant for Home Assistant",
-    "url": "https://github.com/synesthesiam/hassio-addons/tree/master/rhasspy",
+    "description": "Offline voice assistant for Home Assistant using ReSpeaker 2",
+    "url": "https://github.com/HedgehogCode/hassio-addons",
     "startup": "application",
     "arch": [
         "aarch64",
